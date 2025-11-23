@@ -1,0 +1,16 @@
+C:\Projects\SaasV2\SaasV2.DTOs\bin\Debug\net9.0\SaasV2.DTOs.deps.json
+C:\Projects\SaasV2\SaasV2.DTOs\bin\Debug\net9.0\SaasV2.DTOs.dll
+C:\Projects\SaasV2\SaasV2.DTOs\bin\Debug\net9.0\SaasV2.DTOs.pdb
+C:\Projects\SaasV2\SaasV2.DTOs\bin\Debug\net9.0\SaasV2.Core.dll
+C:\Projects\SaasV2\SaasV2.DTOs\bin\Debug\net9.0\SaasV2.Core.pdb
+C:\Projects\SaasV2\SaasV2.DTOs\obj\Debug\net9.0\SaasV2.DTOs.csproj.AssemblyReference.cache
+C:\Projects\SaasV2\SaasV2.DTOs\obj\Debug\net9.0\SaasV2.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\SaasV2\SaasV2.DTOs\obj\Debug\net9.0\SaasV2.DTOs.AssemblyInfoInputs.cache
+C:\Projects\SaasV2\SaasV2.DTOs\obj\Debug\net9.0\SaasV2.DTOs.AssemblyInfo.cs
+C:\Projects\SaasV2\SaasV2.DTOs\obj\Debug\net9.0\SaasV2.DTOs.csproj.CoreCompileInputs.cache
+C:\Projects\SaasV2\SaasV2.DTOs\obj\Debug\net9.0\SaasV2.D.59B1C0E3.Up2Date
+C:\Projects\SaasV2\SaasV2.DTOs\obj\Debug\net9.0\SaasV2.DTOs.dll
+C:\Projects\SaasV2\SaasV2.DTOs\obj\Debug\net9.0\refint\SaasV2.DTOs.dll
+C:\Projects\SaasV2\SaasV2.DTOs\obj\Debug\net9.0\SaasV2.DTOs.pdb
+C:\Projects\SaasV2\SaasV2.DTOs\obj\Debug\net9.0\ref\SaasV2.DTOs.dll
+C:\Projects\SaasV2\SaasV2.DTOs\obj\Debug\net9.0\SaasV2.DTOs.sourcelink.json

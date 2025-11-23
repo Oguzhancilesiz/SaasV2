@@ -1,0 +1,13 @@
+C:\Projects\SaasV2\SaasV2.Core\bin\Debug\net9.0\SaasV2.Core.deps.json
+C:\Projects\SaasV2\SaasV2.Core\bin\Debug\net9.0\SaasV2.Core.dll
+C:\Projects\SaasV2\SaasV2.Core\bin\Debug\net9.0\SaasV2.Core.pdb
+C:\Projects\SaasV2\SaasV2.Core\obj\Debug\net9.0\SaasV2.Core.csproj.AssemblyReference.cache
+C:\Projects\SaasV2\SaasV2.Core\obj\Debug\net9.0\SaasV2.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\SaasV2\SaasV2.Core\obj\Debug\net9.0\SaasV2.Core.AssemblyInfoInputs.cache
+C:\Projects\SaasV2\SaasV2.Core\obj\Debug\net9.0\SaasV2.Core.AssemblyInfo.cs
+C:\Projects\SaasV2\SaasV2.Core\obj\Debug\net9.0\SaasV2.Core.csproj.CoreCompileInputs.cache
+C:\Projects\SaasV2\SaasV2.Core\obj\Debug\net9.0\SaasV2.Core.dll
+C:\Projects\SaasV2\SaasV2.Core\obj\Debug\net9.0\refint\SaasV2.Core.dll
+C:\Projects\SaasV2\SaasV2.Core\obj\Debug\net9.0\SaasV2.Core.pdb
+C:\Projects\SaasV2\SaasV2.Core\obj\Debug\net9.0\ref\SaasV2.Core.dll
+C:\Projects\SaasV2\SaasV2.Core\obj\Debug\net9.0\SaasV2.Core.sourcelink.json
