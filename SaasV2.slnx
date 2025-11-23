@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="SaasV2.API/SaasV2.API.csproj" />
+  <Project Path="SaasV2.Core/SaasV2.Core.csproj" />
+  <Project Path="SaasV2.DAL/SaasV2.DAL.csproj" />
+  <Project Path="SaasV2.DTOs/SaasV2.DTOs.csproj" />
+  <Project Path="SaasV2.Entity/SaasV2.Entity.csproj" />
+  <Project Path="SaasV2.Mapping/SaasV2.Mapping.csproj" />
+  <Project Path="SaasV2.Services/SaasV2.Services.csproj" />
+</Solution>
