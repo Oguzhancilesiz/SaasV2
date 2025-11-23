@@ -6,8 +6,8 @@ C:\Projects\SaasV2\SaasV2.Core\obj\Debug\net9.0\SaasV2.Core.GeneratedMSBuildEdit
 C:\Projects\SaasV2\SaasV2.Core\obj\Debug\net9.0\SaasV2.Core.AssemblyInfoInputs.cache
 C:\Projects\SaasV2\SaasV2.Core\obj\Debug\net9.0\SaasV2.Core.AssemblyInfo.cs
 C:\Projects\SaasV2\SaasV2.Core\obj\Debug\net9.0\SaasV2.Core.csproj.CoreCompileInputs.cache
+C:\Projects\SaasV2\SaasV2.Core\obj\Debug\net9.0\SaasV2.Core.sourcelink.json
 C:\Projects\SaasV2\SaasV2.Core\obj\Debug\net9.0\SaasV2.Core.dll
 C:\Projects\SaasV2\SaasV2.Core\obj\Debug\net9.0\refint\SaasV2.Core.dll
 C:\Projects\SaasV2\SaasV2.Core\obj\Debug\net9.0\SaasV2.Core.pdb
 C:\Projects\SaasV2\SaasV2.Core\obj\Debug\net9.0\ref\SaasV2.Core.dll
-C:\Projects\SaasV2\SaasV2.Core\obj\Debug\net9.0\SaasV2.Core.sourcelink.json

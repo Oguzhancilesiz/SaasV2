@@ -13,10 +13,10 @@ C:\Projects\SaasV2\SaasV2.DAL\obj\Debug\net9.0\SaasV2.DAL.GeneratedMSBuildEditor
 C:\Projects\SaasV2\SaasV2.DAL\obj\Debug\net9.0\SaasV2.DAL.AssemblyInfoInputs.cache
 C:\Projects\SaasV2\SaasV2.DAL\obj\Debug\net9.0\SaasV2.DAL.AssemblyInfo.cs
 C:\Projects\SaasV2\SaasV2.DAL\obj\Debug\net9.0\SaasV2.DAL.csproj.CoreCompileInputs.cache
+C:\Projects\SaasV2\SaasV2.DAL\obj\Debug\net9.0\SaasV2.DAL.sourcelink.json
 C:\Projects\SaasV2\SaasV2.DAL\obj\Debug\net9.0\SaasV2.DAL.csproj.Up2Date
 C:\Projects\SaasV2\SaasV2.DAL\obj\Debug\net9.0\SaasV2.DAL.dll
 C:\Projects\SaasV2\SaasV2.DAL\obj\Debug\net9.0\refint\SaasV2.DAL.dll
 C:\Projects\SaasV2\SaasV2.DAL\obj\Debug\net9.0\SaasV2.DAL.pdb
 C:\Projects\SaasV2\SaasV2.DAL\obj\Debug\net9.0\SaasV2.DAL.genruntimeconfig.cache
 C:\Projects\SaasV2\SaasV2.DAL\obj\Debug\net9.0\ref\SaasV2.DAL.dll
-C:\Projects\SaasV2\SaasV2.DAL\obj\Debug\net9.0\SaasV2.DAL.sourcelink.json

@@ -16,9 +16,9 @@ C:\Projects\SaasV2\SaasV2.Services\obj\Debug\net9.0\SaasV2.Services.GeneratedMSB
 C:\Projects\SaasV2\SaasV2.Services\obj\Debug\net9.0\SaasV2.Services.AssemblyInfoInputs.cache
 C:\Projects\SaasV2\SaasV2.Services\obj\Debug\net9.0\SaasV2.Services.AssemblyInfo.cs
 C:\Projects\SaasV2\SaasV2.Services\obj\Debug\net9.0\SaasV2.Services.csproj.CoreCompileInputs.cache
+C:\Projects\SaasV2\SaasV2.Services\obj\Debug\net9.0\SaasV2.Services.sourcelink.json
 C:\Projects\SaasV2\SaasV2.Services\obj\Debug\net9.0\SaasV2.S.88215873.Up2Date
 C:\Projects\SaasV2\SaasV2.Services\obj\Debug\net9.0\SaasV2.Services.dll
 C:\Projects\SaasV2\SaasV2.Services\obj\Debug\net9.0\refint\SaasV2.Services.dll
 C:\Projects\SaasV2\SaasV2.Services\obj\Debug\net9.0\SaasV2.Services.pdb
 C:\Projects\SaasV2\SaasV2.Services\obj\Debug\net9.0\ref\SaasV2.Services.dll
-C:\Projects\SaasV2\SaasV2.Services\obj\Debug\net9.0\SaasV2.Services.sourcelink.json

@@ -10,9 +10,9 @@ C:\Projects\SaasV2\SaasV2.Mapping\obj\Debug\net9.0\SaasV2.Mapping.GeneratedMSBui
 C:\Projects\SaasV2\SaasV2.Mapping\obj\Debug\net9.0\SaasV2.Mapping.AssemblyInfoInputs.cache
 C:\Projects\SaasV2\SaasV2.Mapping\obj\Debug\net9.0\SaasV2.Mapping.AssemblyInfo.cs
 C:\Projects\SaasV2\SaasV2.Mapping\obj\Debug\net9.0\SaasV2.Mapping.csproj.CoreCompileInputs.cache
+C:\Projects\SaasV2\SaasV2.Mapping\obj\Debug\net9.0\SaasV2.Mapping.sourcelink.json
 C:\Projects\SaasV2\SaasV2.Mapping\obj\Debug\net9.0\SaasV2.M.2A54EF29.Up2Date
 C:\Projects\SaasV2\SaasV2.Mapping\obj\Debug\net9.0\SaasV2.Mapping.dll
 C:\Projects\SaasV2\SaasV2.Mapping\obj\Debug\net9.0\refint\SaasV2.Mapping.dll
 C:\Projects\SaasV2\SaasV2.Mapping\obj\Debug\net9.0\SaasV2.Mapping.pdb
 C:\Projects\SaasV2\SaasV2.Mapping\obj\Debug\net9.0\ref\SaasV2.Mapping.dll
-C:\Projects\SaasV2\SaasV2.Mapping\obj\Debug\net9.0\SaasV2.Mapping.sourcelink.json

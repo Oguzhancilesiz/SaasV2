@@ -8,9 +8,9 @@ C:\Projects\SaasV2\SaasV2.Entity\obj\Debug\net9.0\SaasV2.Entity.GeneratedMSBuild
 C:\Projects\SaasV2\SaasV2.Entity\obj\Debug\net9.0\SaasV2.Entity.AssemblyInfoInputs.cache
 C:\Projects\SaasV2\SaasV2.Entity\obj\Debug\net9.0\SaasV2.Entity.AssemblyInfo.cs
 C:\Projects\SaasV2\SaasV2.Entity\obj\Debug\net9.0\SaasV2.Entity.csproj.CoreCompileInputs.cache
+C:\Projects\SaasV2\SaasV2.Entity\obj\Debug\net9.0\SaasV2.Entity.sourcelink.json
 C:\Projects\SaasV2\SaasV2.Entity\obj\Debug\net9.0\SaasV2.E.0DAC6FB5.Up2Date
 C:\Projects\SaasV2\SaasV2.Entity\obj\Debug\net9.0\SaasV2.Entity.dll
 C:\Projects\SaasV2\SaasV2.Entity\obj\Debug\net9.0\refint\SaasV2.Entity.dll
 C:\Projects\SaasV2\SaasV2.Entity\obj\Debug\net9.0\SaasV2.Entity.pdb
 C:\Projects\SaasV2\SaasV2.Entity\obj\Debug\net9.0\ref\SaasV2.Entity.dll
-C:\Projects\SaasV2\SaasV2.Entity\obj\Debug\net9.0\SaasV2.Entity.sourcelink.json
