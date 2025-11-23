@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SaasV2.Services")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c623270c08afb8e04e2514875d01708bf526870")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+849a25eb7d7e0a4571c36d453d1adb8ac44cff7d")]
 [assembly: System.Reflection.AssemblyProductAttribute("SaasV2.Services")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SaasV2.Services")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
