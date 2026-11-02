@@ -78,3 +78,8 @@ pnpm-lock.yaml
 *.temp
 *.cache
 
+
+# build output
+bin/
+obj/
+.vs/
